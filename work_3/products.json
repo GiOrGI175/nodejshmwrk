@@ -1,0 +1,26 @@
+[
+  {
+    "name": "pasta",
+    "price": 5
+  },
+  {
+    "name": "pasta2",
+    "price": 15
+  },
+  {
+    "name": "pasta3",
+    "price": 10
+  },
+  {
+    "name": "pasta33",
+    "price": 30
+  },
+  {
+    "name": "pasta300",
+    "price": 50
+  },
+  {
+    "name": "pasta301",
+    "price": 200
+  }
+]
